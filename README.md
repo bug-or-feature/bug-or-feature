@@ -1,10 +1,14 @@
-## Hi there 👋
+![bof-ying-yang_sm](https://github.com/user-attachments/assets/e9da2f66-f463-4c43-b817-5ddec20e1685)
+
+### Hi, I'm Andy
+
+I am a software engineer. I have passion for technology, healthy curiosity, and take great satisfaction in making things work. 
+
+- find me on [Upwork](https://www.upwork.com/freelancers/~01e588143119931b5c)
+- [buy me a coffee](buymeacoffee.com/bug.or.feature)
+
 
 <!--
-**bug-or-feature/bug-or-feature** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
